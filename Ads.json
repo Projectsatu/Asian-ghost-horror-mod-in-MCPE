@@ -7,7 +7,7 @@
       "interval":2,
       "unityadsId":"1234567",
       
-      "addon" : false,
+      "addon" : true,
       "maps": true,
       
       "admob_open_ads":"ca-app-pub-3940256099942544/3419835294",
