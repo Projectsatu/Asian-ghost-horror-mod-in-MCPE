@@ -7,6 +7,9 @@
       "interval":2,
       "unityadsId":"1234567",
       
+      "addon" : false,
+      "maps": true,
+      
       "admob_open_ads":"ca-app-pub-3940256099942544/3419835294",
       "admob_banner":"ca-app-pub-3940256099942544/6300978111",
       "admob_inter":"ca-app-pub-3940256099942544/1033173712",
